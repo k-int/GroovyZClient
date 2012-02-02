@@ -1,0 +1,4 @@
+
+A trivial groovy client that submits a number of queries to a list of z3950 targets. Contains a wrapper around the core ZEndpoint (origin bean) from JZLib
+
+Allows you to compare each query against different targets. Useful when you're migrating a server and you want to test each one
